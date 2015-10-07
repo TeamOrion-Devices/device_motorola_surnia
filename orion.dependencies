@@ -1,0 +1,9 @@
+[
+  {
+	"remote": "github",
+    "repository": "SlimRoms/kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+	"revision": "lp5.1"
+  }
+]
+
