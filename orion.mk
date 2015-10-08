@@ -20,7 +20,9 @@ $(call inherit-product, vendor/orion/config/common_full_phone.mk)
 $(call inherit-product, device/motorola/surnia/full_surnia.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := surnia
+PRODUCT_RELEASE_NAME := orion_surnia
 
 # TODO: verify fingerprint ID
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
+
+PRODUCT_NAME := orion_surnia
