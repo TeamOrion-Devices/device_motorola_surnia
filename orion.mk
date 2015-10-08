@@ -13,6 +13,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Dimensions
+TARGET_SCREEN_WIDTH := 540
+TARGET_SCREEN_HEIGHT := 960
+
 # Inherit some common stuff.
 $(call inherit-product, vendor/orion/config/common_full_phone.mk)
 
